@@ -29,7 +29,6 @@ def write_file(file_name, data):
 print("Read last prime number")
 examine_number=read_last_number(file_name)+1
 print(f"Last prime number is: {examine_number}")
-sleep(2)
 
 while True:
     for j in range(2,int(examine_number/2+1)):
@@ -39,9 +38,7 @@ while True:
             break
         
     if if_prime_number==True:
-        print(f"Number {examine_number} is prime number")
         write_file(file_name, examine_number)
-        #sleep(1.1)
     examine_number+=1
     if_prime_number=True
 
