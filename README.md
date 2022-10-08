@@ -38,6 +38,8 @@ In linux devices you can run program by writing the command in terminal:
 In windows devices you can run program by clicking **PNG-Prime_Number_Generator.py** in file explorator.
 After run program first time you should see the information:
 ### 
-```Read last prime number
-Last prime number is: 2```
+```
+Read last prime number
+Last prime number is: 2
+```
 Program starts looking for prime number. Found number it saves to file **prime_numbers.py**. From the file it load last found prime number.
