@@ -8,7 +8,7 @@ You can clone it in linux devices:
 
 or download as a zip file on the github webpage.
 
-Next you must check, that you have python and psutil library download. You can check it by writting the information in terminal: 
+Next you must check, that you have python download. You can check it by writting the information in terminal: 
 
 #### `python3 --version` to check if you have python
 
@@ -23,7 +23,7 @@ If you don't have download python you can do it <a href="https://www.python.org/
 ### Windows device
 
 On the windows devices you can download zip file from github and unpack it.
-Next you must check, that you have python and psutil library download. You can check it by writting the information in terminal: 
+Next you must check, that you have python download. You can check it by writting the information in terminal: 
 
 #### `python --version` to check if you have python
 
@@ -42,4 +42,4 @@ After run program first time you should see the information:
 Read last prime number
 Last prime number is: 2
 ```
-Program starts looking for prime number. Found number it saves to file **prime_numbers.py**. From the file it load last found prime number.
+Program starts looking for prime number. Found number it saves to file **prime_numbers.py**. From the file it loads last found prime number.
