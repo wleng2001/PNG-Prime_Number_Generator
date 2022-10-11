@@ -6,8 +6,17 @@ I want to create ranking the biggest prime number found by the program. You can 
 The ranking:
 ####
 ```
-   nick       score
-1. Wleng 2001 2
+nr nick       score
+1. Wleng2001  1026811
+2. Wleng2001  2
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 ```
 
 ## Instalation
