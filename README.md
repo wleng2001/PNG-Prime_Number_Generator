@@ -39,6 +39,14 @@ If you don't have downloaded python you can do it <a href="https://www.python.or
 
 #### `sudo apt install python3`
 
+In next step you must install pip by:
+
+#### `sudo apt install python3-pip`
+
+When you install pip you must install gitpython library by typing the command in the terminal:
+
+#### 'sudo pip3 install pygithub'
+
 ### Windows device
 
 On the windows devices you can download zip file from github and unpack it.
@@ -51,9 +59,22 @@ You should get information similary to that:
 #### `Python 3.9.7`
 
 If you don't have downloaded python you can do it <a href="https://www.python.org/downloads/">here</a>.
+
+if you don't have pip you can install it by writing the command in cmd:
+
+#### `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+
+after download you must typing the information in cmd:
+
+#### `python get-pip.py`
+
+Next you must write the command in the cmd to download pygithub library:
+
+#### `pip install pygithub`
+
 ## Usage
 In linux devices you can run program by writing the command in terminal:
-#### `python3 [file_path]/PNG/PNG-Prime_Number_Generator.py` where [file_path] is file path to the PNG folder
+#### `sudo python3 [file_path]/PNG/PNG-Prime_Number_Generator.py` where [file_path] is file path to the PNG folder
 In windows devices you can run program by clicking **PNG-Prime_Number_Generator.py** in file explorator.
 After run program first time you should see the information:
 ####
