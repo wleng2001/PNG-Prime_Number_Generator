@@ -8,7 +8,7 @@ from github import Github
 examine_number=1
 if_prime_number=True
 file_name="prime_numbers.txt"
-last_update="2022-10-19"
+last_update="2022-11-6"
 repo_name="wleng2001/PNG-Prime_Number_Generator"
 #update check
 
