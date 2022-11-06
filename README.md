@@ -1,5 +1,5 @@
 # PNG-Prime_Number_Generator
- It's simply program written in python, which generate prime numbers and save them to file. It starts in last position!
+ It's simply program written in python, which generate prime numbers and save them to file. It starts in last position and check if the new version of app is available.
 ## Last found number
 I want to create ranking the biggest prime number found by the program. You can send your score to the e-mail: *ki.serwer@gmail.com* with your nick and file, which certiy your score.
 
@@ -79,8 +79,15 @@ In windows devices you can run program by clicking **PNG-Prime_Number_Generator.
 After run program first time you should see the information:
 ####
 ```
+Check version...
+```
+If new version of app is available you get the information:
+####
+```
+New version is available!
 Read last prime number
 Last prime number is: 2
 ```
+
 Program starts looking for prime numbers. Found numbers are saves to file **prime_numbers.txt**. From the file it loads last found prime number. 
 If you want to stop program in linux or windows you must click **ctr** + **c** or close the terminal. 
